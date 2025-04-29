@@ -17,8 +17,8 @@ This project explores quantum teleportation and entanglement in quantum informat
    - Generation via CNOT and Hadamard gates  
    - Bell states:  
 
-|Φ⁺⟩ = (1/√2)(|00⟩ + |11⟩)  
-|Ψ⁻⟩ = (1/√2)(|01⟩ − |10⟩)
+   |Φ⁺⟩ = (1/√2)(|00⟩ + |11⟩)  
+   |Ψ⁻⟩ = (1/√2)(|01⟩ − |10⟩)
 
 3. **Teleportation Protocol**  
    - Alice and Bob use entangled qubits + classical communication  
