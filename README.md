@@ -16,12 +16,9 @@ This project explores quantum teleportation and entanglement in quantum informat
 2. **Entanglement**  
    - Generation via CNOT and Hadamard gates  
    - Bell states:  
-     $$  
-     \begin{align*}  
-     |\Phi^+\rangle &= \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle) \\  
-     |\Psi^-\rangle &= \frac{1}{\sqrt{2}}(|01\rangle - |10\rangle)  
-     \end{align*}  
-     $$  
+
+|Φ⁺⟩ = (1/√2)(|00⟩ + |11⟩)  
+|Ψ⁻⟩ = (1/√2)(|01⟩ − |10⟩)
 
 3. **Teleportation Protocol**  
    - Alice and Bob use entangled qubits + classical communication  
